@@ -43,6 +43,7 @@ weather-project/
 │
 ├── weather.csv
 ├── weather.ipynb
+├── graph of data
 └── README.md
 
 
